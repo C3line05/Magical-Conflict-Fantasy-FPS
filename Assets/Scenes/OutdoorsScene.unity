@@ -1316,7 +1316,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -34}
-  m_SizeDelta: {x: 1920, y: 500}
+  m_SizeDelta: {x: 1400, y: 1000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &374835913
 MonoBehaviour:
@@ -1338,12 +1338,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Titolo del Gioco: Magical Conflict\n\r\nSviluppato da:\r                     
-    C\xE9line Pavan\n\r\nCorso:\r           Master Game Production 7 / Rainbow Academy\r\n\r\nAsset
-    Utilizzati:\r\n- Mixamo (animazioni)\n-Unity Asset Store (modelli)\n- Nature
-    Manufacture Asset HDRP\n- Unity Standard Assets\r\n\r\nSfondo Utilizzato: Pinterest\n\nRingraziamenti:\r\nGrazie
-    ai docenti e compagni di corso per il supporto.\nGrazie anche alla mia famiglia
-    per il sostegno.\n\n"
+  m_text: "Sviluppo e Game Design: Pavan C\xE9line\nLevel Design: Pavan C\xE9line\nProgrammazione:
+    Chat GPT e Pavan C\xE9line\nDirezione Artistica/UI/Modelli: Pavan C\xE9line\nAudio:
+    ElevenLabs /Musica: Pixabay\n\nASSETS\n-Forest Environment - Dynamic Nature by
+    NatureManufacture (messo a disposizione dalla Rainbow Academy)\n-Golem e animazioni
+    (Giant Monster Model e Giant Animations Free)  by Kevin Iglesias\n-Autumn Mountain
+    by GameWarming\n-Stylize Modular House Demo Free by Erbeilo3D\n-Alchemist House
+    by BK\n-FREE RPG Weapons e FREE Modular Character Fantasy RPG Human Male by Blink\n-Simple
+    Gems and Items Ultimate Animated Customizable Pack by BenjaTheMaker\n-Medieval
+    Models Pack by Double Impact Workshop\n-The Realtime Rascals by Unity Technologies\n\nSTRUMENTI
+    UTILIZZATI\n-Unity 2022.3.53f1\n-VisualStudio 2022\n\nRINGRAZIAMENTI\n-Ai docenti
+    del Corso per la disponibilit\xE0 ed il supporto\n-Ai miei compagni di corso
+    per la disponibilit\xE0 ed il supporto\n-Alla mia famiglia per il supporto"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1370,8 +1376,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

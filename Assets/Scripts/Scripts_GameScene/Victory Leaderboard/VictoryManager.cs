@@ -81,7 +81,7 @@ public class VictoryManager : MonoBehaviour
     {
         Debug.Log("Continua premuto — prossima scena non ancora implementata.");
         // In futuro potrai aggiungere:
-        // SceneManager.LoadScene("NomeProssimaScena");
+         SceneManager.LoadScene("Mago House Scene");
     }
 
     // 🔸 Pulsante QUIT

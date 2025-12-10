@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822b86315b6bdff4384dcc9da5dd3f65, type: 3}
+  m_Name: Dialogue_A
+  m_EditorClassIdentifier: Assembly-CSharp::NovelDialogue
+  _dialogueLines:
+  - _speakerName: Tutorial Bot A
+    _speakerPortrait: {fileID: 21300000, guid: d394fdeb7c577d74c857e0ceb1a687eb, type: 3}
+    _portraitDirection: 0
+    _dialogueText: Hey There
+  - _speakerName: Tutorial Bot B
+    _speakerPortrait: {fileID: 21300000, guid: d394fdeb7c577d74c857e0ceb1a687eb, type: 3}
+    _portraitDirection: 1
+    _dialogueText: This is a Test
+  - _speakerName: Tutorial Bot A
+    _speakerPortrait: {fileID: 21300000, guid: d394fdeb7c577d74c857e0ceb1a687eb, type: 3}
+    _portraitDirection: 0
+    _dialogueText: You can choose to skip if you want
+  _dialogueChoices:
+  - _choiceText: Ok?
+    _nextDialogue: {fileID: 11400000, guid: 2e628195826010444933819d48c94a10, type: 2}
+  - _choiceText: Fuck Off
+    _nextDialogue: {fileID: 11400000, guid: d2b331ae5b0f0d74fa4764bdd57ded3f, type: 2}
+  - _choiceText: Sure, I will do it
+    _nextDialogue: {fileID: 11400000, guid: 2e628195826010444933819d48c94a10, type: 2}

@@ -16,7 +16,7 @@ public class TutorialManager : MonoBehaviour
         "Premi S per muoverti indietro",
         "Premi A oppure D per muoverti lateralmente",
         "Premi SPACE per bloccare gli attacchi",
-        "Premi E per attaccare"
+        "Premi tasto sinistro del mouse per attaccare"
     };
 
     private bool stepCompleted = false;
@@ -59,10 +59,11 @@ public class TutorialManager : MonoBehaviour
                     CompleteStep();
                 break;
 
-            case 4: // Premi E
-                if (Keyboard.current.eKey.wasPressedThisFrame)
+            case 4: // Premi tasto sinistro del mouse
+                if (Mouse.current.leftButton.wasPressedThisFrame)
                     CompleteStep();
                 break;
+
         }
     }
 

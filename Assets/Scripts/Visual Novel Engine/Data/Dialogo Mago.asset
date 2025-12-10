@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822b86315b6bdff4384dcc9da5dd3f65, type: 3}
+  m_Name: Dialogo Mago
+  m_EditorClassIdentifier: 
+  _dialogueLines:
+  - _speakerName: Mago Rana
+    _dialogueText: "Viandante, qual buon vento vi porta qui? Ormai questo villaggio
+      \xE8 stato distrutto dagli Stregoni tanto tempo fa. Io sono l\u2019unico che
+      ha deciso di restare e vedere questo posto un tempo bellissimo, crollare in
+      rovina."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Come dite? Vi chiedete il perch\xE9 del mio strano aspetto? Ah
+      beh\u2026 Se avete del tempo a disposizione vi racconter\xF2 una storia\u2026"
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Come dite? Vi chiedete il perch\xE9 del mio strano aspetto? Ah
+      beh\u2026 Se avete del tempo a disposizione vi racconter\xF2 una storia\u2026"
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Tanto tempo fa, esisteva, tra queste montagne che avete visto
+      recandovi qui, un bellissimo villaggio. Era pieno di vitalit\xE0 e i suoi cittadini
+      non erano da meno. Io non sono una persona molto socievole di mio ma ogni tanto
+      ricevevo visite da parte di qualcuno e partecipavo alle feste di paese."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Sfortunatamente, un giorno in cui ero lontano dal villaggio,
+      gli Stregoni decisero di fare un\u2019imboscata e presero in ostaggio quasi
+      tutti gli abitanti."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Quando venni a saperlo fu troppo tardi per poter fare qualsiasi
+      cosa. L\u2019unica nota positiva in questa triste situazione fu la presenza
+      di un giovanotto che mi stimava."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Quel giorno, giocando a nascondino con i suoi amici, si nascose
+      talmente bene che neanche gli Stregoni furono in grado di scovarlo. Dopo essersi
+      fatto un\u2019idea di quello che poteva essere successo, gli venne in mente
+      di rifugiarsi qui, in casa mia."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Una volta tornato, decisi di prendermi cura di lui anche se difficile:
+      purtroppo era malato e lasci\xF2 questa terra precocemente, ma posso dire che
+      se ne and\xF2 con il sorriso grazie alla mia compagnia."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Qualche mese dopo, sentii degli strani suoni attorno al villaggio
+      e decisi di andare a indagare. Scoprii che gli Stregoni avevano creato dei
+      Golem per distruggere ci\xF2 che era rimasto."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Mi feci forza e iniziai a sconfiggerli piano piano con costanza.
+      Il problema \xE8 che non mi accorsi in tempo che tutto questo faceva parte
+      di una trappola per attirarmi e rendermi vulnerabile ai loro attacchi senza
+      opzione per difendermi."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Mi trasformarono in rana. Da quel giorno mi rifugiai qui e non
+      uscii pi\xF9. Per fortuna avevo creato uno scudo protettivo molto potente attorno
+      alla casa ancora prima di quel giorno. La storia finisce qui, Viandante."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: Visto che ti sei fermato a parlare con questo povero vecchio ormai
+      solo, vorrei regalarti la bacchetta che vedi sul tavolo. Era di quel giovanotto
+      che voleva diventare un mago come me. Gliela regalai quando lo nominai ufficialmente
+      mio apprendista.
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Prendila, ora \xE8 tua. Anche se la tenessi io, finirebbe solo
+      per prendere polvere e ricordarmi quella tragedia. Spero che tu possa farne
+      buon uso."
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: Come dici? Non sai come usare una bacchetta?
+    _dialogueEvents: []
+  - _speakerName: Mago Rana
+    _dialogueText: "Allora testiamolo subito. Dammi solo un attimo che devo teletrasportarti
+      nella mia arena magica. Ti far\xF2 imparare le basi tramite un tutorial."
+    _dialogueEvents: []
+  _dialogueChoices: []
+  _sceneToLoadAfter: 4

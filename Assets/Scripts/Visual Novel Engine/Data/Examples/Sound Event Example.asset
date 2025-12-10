@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4326d2fc59be22949b2b19613009f7ed, type: 3}
+  m_Name: Sound Event Example
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSoundEvent
+  _audioClip: {fileID: 8300000, guid: 225bd5349725064409c0d695f5a64991, type: 3}
+  _volume: 1
